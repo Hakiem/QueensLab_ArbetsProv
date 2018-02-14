@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Geo-Locator";
+}
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC6v5-2uaq_wusHDktM9ILcqIrlPtnZgEk&language=en&region=Sv">
+</script>
+<script type="text/javascript">
+    window.onload = function () { initMap() };
+</script>
+<div class="row text-center">
+    <h2>Showing your distance relative to random cities with GoogleMaps API</h2>
+</div>
+<div class="row container text-center">
+    <form class="form-inline" style="padding:30px">
+        <div class="form-row align-items-center">
+            <!-- Buttons -->
+            <div class="form-group">
+                <button id="btnRead" name="singlebutton" class="btn btn-primary btn-sm btn-block">Read</button>
+            </div>
+            <div class="form-group">
+                <button id="btnClear" name="btnClear" class="btn btn-secondary btn-sm btn-block">Clear</button>
+            </div>
+        </div>
+    </form>
+</div>
+<div class="divMap">@{Html.RenderPartial("GetRandomCity"); }</div>

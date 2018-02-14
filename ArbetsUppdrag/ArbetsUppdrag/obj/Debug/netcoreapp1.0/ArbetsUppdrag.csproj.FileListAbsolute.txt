@@ -1,0 +1,11 @@
+c:\users\faisw\source\repos\ArbetsUppdrag\ArbetsUppdrag\bin\Debug\netcoreapp1.0\ArbetsUppdrag.deps.json
+c:\users\faisw\source\repos\ArbetsUppdrag\ArbetsUppdrag\bin\Debug\netcoreapp1.0\ArbetsUppdrag.runtimeconfig.json
+c:\users\faisw\source\repos\ArbetsUppdrag\ArbetsUppdrag\bin\Debug\netcoreapp1.0\ArbetsUppdrag.runtimeconfig.dev.json
+c:\users\faisw\source\repos\ArbetsUppdrag\ArbetsUppdrag\bin\Debug\netcoreapp1.0\ArbetsUppdrag.dll
+c:\users\faisw\source\repos\ArbetsUppdrag\ArbetsUppdrag\bin\Debug\netcoreapp1.0\ArbetsUppdrag.pdb
+c:\users\faisw\source\repos\ArbetsUppdrag\ArbetsUppdrag\obj\Debug\netcoreapp1.0\ArbetsUppdrag.csprojResolveAssemblyReference.cache
+c:\users\faisw\source\repos\ArbetsUppdrag\ArbetsUppdrag\obj\Debug\netcoreapp1.0\ArbetsUppdrag.csproj.CoreCompileInputs.cache
+c:\users\faisw\source\repos\ArbetsUppdrag\ArbetsUppdrag\obj\Debug\netcoreapp1.0\ArbetsUppdrag.AssemblyInfoInputs.cache
+c:\users\faisw\source\repos\ArbetsUppdrag\ArbetsUppdrag\obj\Debug\netcoreapp1.0\ArbetsUppdrag.AssemblyInfo.cs
+c:\users\faisw\source\repos\ArbetsUppdrag\ArbetsUppdrag\obj\Debug\netcoreapp1.0\ArbetsUppdrag.dll
+c:\users\faisw\source\repos\ArbetsUppdrag\ArbetsUppdrag\obj\Debug\netcoreapp1.0\ArbetsUppdrag.pdb
